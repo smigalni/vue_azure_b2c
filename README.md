@@ -1,6 +1,6 @@
 # vue_azure_b2c
 
-> A Vue.js project
+> Integraion vue.js with Azure AD B2C. Read my blog for details: https://www.sergeydotnet.com/vuejs-with/
 
 ## Build Setup
 
