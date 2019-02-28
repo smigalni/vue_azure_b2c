@@ -1,6 +1,6 @@
 # vue_azure_b2c
 
-> Integraion vue.js with Azure AD B2C. Read my blog for details: https://www.sergeydotnet.com/vuejs-with/
+> Integraion vue.js with Azure AD B2C. Read my blog for details: https://www.sergeydotnet.com/vuejs-with-azure-ad-b2c/
 
 ## Build Setup
 
@@ -12,7 +12,7 @@ npm install
 npm run dev
 
 # build for production with minification
-npm run build
+npm run buildhttps://www.sergeydotnet.com/vuejs-with-azure-ad-b2c/
 
 # build for production and view the bundle analyzer report
 npm run build --report
